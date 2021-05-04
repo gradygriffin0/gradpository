@@ -92,3 +92,8 @@ function mostSpentOnItem(input){
 }
 
 console.log(mostSpentOnItem(shoppingCart));
+
+
+function addition(num) {
+    return ++num
+}
